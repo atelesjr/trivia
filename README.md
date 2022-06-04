@@ -9,9 +9,9 @@ A Swipe cards animation app. (React.js, JavaScript - Typscript  and CSS styled-c
 
 ## Images
 
-![trivia](https://github.com/atelesjr/trivia/blob/master/public/img/01.PNG)
+![trivia](https://github.com/atelesjr/trivia/blob/main/public/img/01.png)
 
-![trivia](https://github.com/atelesjr/trivia/blob/master/public/img/02.PNG)
+![trivia](https://github.com/atelesjr/trivia/blob/main/public/img/02.PNG)
 
-![trivia](https://github.com/atelesjr/trivia/blob/master/public/img/03.PNG)
+![trivia](https://github.com/atelesjr/trivia/blob/main/public/img/03.PNG)
 
